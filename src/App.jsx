@@ -9,7 +9,8 @@ const App = () => {
       <NavBar />
       <Query />
       <Edit />
-      updated app component
+
+      <h1>navbar added successfully</h1>
     </div>
   );
 };
