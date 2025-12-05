@@ -9,6 +9,7 @@ const App = () => {
       <NavBar />
       <Query />
       <Edit />
+      updated app component
     </div>
   );
 };
